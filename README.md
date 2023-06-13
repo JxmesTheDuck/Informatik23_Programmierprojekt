@@ -1,6 +1,6 @@
 # Informatik23_Programmierprojekt
 
-## Projektbeschreibung
+## Projektkurzdoku
 
 ## Projekttagebuch
 ### 13.06.2023:
