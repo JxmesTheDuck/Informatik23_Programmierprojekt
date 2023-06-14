@@ -3,7 +3,7 @@
 ## Projektkurzdoku:
 
 ### <ins>Projektname:</ins>
-Staubsauger-Roboter
+###Staubsauger-Roboter
 
 ### <ins>Angaben zum Team:</ins>
 Sprecher: James Geller<br />
