@@ -10,8 +10,7 @@ import ea.*;
  * 
  * @changelog   Konstruktor setzt nun Bild-Mittelpunkt auf uebergebenen Mittelpunkt (nicht Ecke links oben)
  */
-public class BILD
-extends BildE {
+public class BILD extends BildE {
     
     
     /**

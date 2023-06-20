@@ -21,10 +21,12 @@ Nr. |Meilenstein |Termin (Soll) | Termin (Ist) |Stunden |
 1.|Projektauswahl|13.06.        |13.06         |  1
 2.|Projekttagebuch|13.06.        |13.06         |  1
 3.|Projeksynkronisation per GitHub|13.06.        |14.06         |  1
+4.|Programmierung bis Aufgabe 4| 20.06.| 20.06.| 1,5
+
 
 
 ## Aktionsplan für Geplantes:
 
 |Wer        |Was        |Wann       |OK         |
 |-----------|-----------|-----------|-----------|
-|||||
+|    alle |weiterarbeiten|immer|nein|

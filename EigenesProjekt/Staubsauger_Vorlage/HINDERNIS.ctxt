@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HINDERNIS
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ HINDERNIS.\r\n\ \r\n\ @author\ (Ihr\ Name)\r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=x\ y
+comment1.target=HINDERNIS(int,\ int)
+numComments=2

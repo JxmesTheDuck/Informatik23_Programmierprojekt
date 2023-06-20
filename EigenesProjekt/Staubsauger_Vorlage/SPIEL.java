@@ -43,6 +43,8 @@ public class SPIEL
      * Die Anzeige des Spiels.
      */
     private static AnzeigeE anzeige;
+    private int breite;
+    private int hoehe;
     
     /**
      * Dieser Zaehler ermoeglicht den Tik-Tak-Wechsel.
@@ -71,6 +73,9 @@ public class SPIEL
         //Zaehler fuer Tick, Tack, ...
         zaehler = 0;
         anzeige = new AnzeigeE(breite, hoehe);
+        
+        this.breite=breite;
+        this.hoehe=hoehe;
         
         //Punkteanzeige
         anzeige.punkteLinksSichtbarSetzen(punkteLinks);
@@ -101,7 +106,12 @@ public class SPIEL
         this(808, 629, false, false, false);
     }
 
-    
+    public int gibAnzeigeBreite(){
+        return breite;
+    }
+    public int gibAnzeigeHoehe(){
+        return hoehe;
+    }
     
     /**
      * Wird regelmaessig aufgerufen. So kommt Bewegung ins Spiel!

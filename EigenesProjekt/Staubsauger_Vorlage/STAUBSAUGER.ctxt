@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=STAUBSAUGER
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ STAUBSAUGER.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=x\ y\ name
+comment1.target=STAUBSAUGER(int,\ int,\ java.lang.String)
+numComments=2
