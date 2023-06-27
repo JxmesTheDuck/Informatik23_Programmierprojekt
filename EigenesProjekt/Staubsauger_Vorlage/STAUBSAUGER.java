@@ -11,9 +11,9 @@ public class STAUBSAUGER extends BILD
     
 
     // Konstruktor
-    public STAUBSAUGER(int x,int y, String name)
+    public STAUBSAUGER()
     {
-        super(x,y,name);
+        super(ZIMMER.gibAnzeigeBreite(),ZIMMER.gibAnzeigeHoehe(),"Robot.gif");
     }
 
     // Methoden
